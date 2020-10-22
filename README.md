@@ -9,8 +9,9 @@ To be able to explore the platform, follow screen1 and screen2
 <center>
 
 <img  src="meteoim.png" />
----
+
 </center>
+---
 ---
 
 
