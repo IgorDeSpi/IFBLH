@@ -1,7 +1,7 @@
 First screen Explanations
 ===
 
-1. In the upper left corner, you will have access to the user's personal information, in the form of a list. You will have access to details such as:
+1. On the left side, you will have access to the user's personal informations, in the form of a list. You will have access to details such as:
 
 - Your own avatar
 - Your name 
