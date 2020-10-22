@@ -13,3 +13,5 @@ Once the user on the other hand accepts the invitation both users will be able t
 
  * **share** **weather** **infos** of their respective locations
  * share **pictures of their surrounding** so that the other user gets an overall view of the weather conditions
+
+![screen 2](1.png)
