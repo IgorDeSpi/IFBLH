@@ -12,6 +12,7 @@ To be able to explore the platform, follow screen1 and screen2
 ---
 </center>
 ---
+
 ---
 # Team
 
@@ -24,9 +25,8 @@ To be able to explore the platform, follow screen1 and screen2
 
 
 ----
-
-
  # Trello 
+
  If you want to access Trello, you can release the link: [_Trello_](https://trello.com/b/3Gjm8G1X/team-work)
  ----
 ---
